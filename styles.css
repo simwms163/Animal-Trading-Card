@@ -1,0 +1,37 @@
+.BatImage {
+    width: 300px;
+    height: 300px;
+    margin-bottom: 10px;  
+  }
+  
+  #stop {
+         font-style: italic;
+         margin-left: 20px;
+         margin-right: 20px;
+  }        
+  
+  .topic {
+    font-weight: bold;
+  } 
+   
+  .line {
+    list-style: none;
+    margin-left: 10px;
+    margin-right: 10px;  
+  }
+  
+  #topnotch {
+    border: 1px black solid;
+    padding: 15px;
+    width: 300px;
+    box-shadow: 3px 3px 3px #000D4D;
+  }
+  
+  .down-div {
+   border: 1px black solid;
+  }
+  
+  .low {
+   margin-left: 10px;
+   margin-right: 10px;
+  }
